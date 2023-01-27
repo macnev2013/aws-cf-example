@@ -3,6 +3,7 @@
 This project is a demonstration of migrating data from RDS to kinesis using AWS DMS service.
 
 ## Usage
+**Note: Make sure to update AWS profile and AWS region in deploy.sh and update.sh scripts before using**
 - To deploy the stack run `deploy,sh` script.
 - To update the stack make the required changes in the stack and run `update.sh`.
 
