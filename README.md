@@ -1,7 +1,7 @@
-# AWS DMS Examples
+# AWS Cloudformation Examples
 
-- Contains AWS DMS Cloudformation Templates
+- This repo contains cloudformation templates for different usecases
 
 
 ## Index
-- [RDS - Kinesis](./rds-kinesis)
+- [AWS DMS: RDS - Kinesis](./dms-rds-kinesis)
